@@ -15,7 +15,7 @@ Set up a GitHub repository as my portfolio for the course.
 5. Created folder structure with placeholder files
 6. Updated the README to describe the portfolio
 7. Created the entry template in cheatsheets/
-8. Wrote this first entry
+8. Wrote this first entry.
 
 ## Findings
 - GitHub's web interface lets me edit and create files directly without installing anything
